@@ -5,4 +5,4 @@
 # Concerto Browser
 A web app based Browser<br>
 # Download
-<a href="https://github.com/MEGAMINDMK/swivro-projects/releases/download/v0.01/Concerto.exe">Clicky!</a>
+<a href="https://github.com/MEGAMINDMK/swivro-projects/releases/download/v1.0.0/Concerto.exe">Clicky!</a>
