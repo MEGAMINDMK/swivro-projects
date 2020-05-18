@@ -7,4 +7,4 @@ A web app based windows<br>
 1.Used <a href="https://github.com/MEGAMINDMK/Windows-Webnet">Webnet Official Windows</a><br>
 2.Used <a href="https://github.com/MEGAMINDMK/Php-Electronjs/tree/master/Php%20Electronjs%20v0.5">Php Electron v5</a>
 # Download
-<a href="https://github.com/MEGAMINDMK/swivro-projects/releases/download/v0.06/Swivro_OS.exe">Clicky!</a>
+<a href="https://github.com/MEGAMINDMK/swivro-projects/releases/download/v0.08/Swivro_OS.exe">Clicky!</a>
